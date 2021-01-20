@@ -1,13 +1,15 @@
-### Hi there 👋
+<div align="center">
+<h2> 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 <img src="Hi.gif" width="30px"></h2>
+</div>
 
+<div align="center" width="50">
 
-![CXTyoNG](https://user-images.githubusercontent.com/44515882/105203080-e4505e80-5b6c-11eb-9fa0-b17b9238f570.gif)
 
 <!--
 **kambarovee/kambarovee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
