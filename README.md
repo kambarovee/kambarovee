@@ -3,8 +3,10 @@
 </div>
 
 <div align="center" width="50">
-
-
+<div align="center">
+<h5>𝙸'𝚖 𝚈𝚎𝚛𝚔𝚎𝚋𝚞𝚕𝚊𝚗 𝚊𝚗𝚍 𝙸 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚍𝚎𝚖𝚊𝚗𝚍𝚎𝚍 mobile 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜. <br>
+𝙼𝚢 𝚍𝚛𝚎𝚊𝚖 𝚒𝚜 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 𝚊 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚝𝚑𝚊𝚝 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚞𝚜𝚎𝚏𝚞𝚕 𝚝𝚘 𝚊𝚕𝚕 𝚘𝚏 𝚑𝚞𝚖𝚊𝚗𝚒𝚝𝚢! 𝙵𝚘𝚛 𝚝𝚑𝚒𝚜 𝙸 𝚊𝚖 𝚜𝚝𝚒𝚕𝚕 𝚐𝚊𝚒𝚗𝚒𝚗𝚐 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎. </h5>
+</div>
 <!--
 **kambarovee/kambarovee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
