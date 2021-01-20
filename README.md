@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![CXTyoNG](https://user-images.githubusercontent.com/44515882/105203080-e4505e80-5b6c-11eb-9fa0-b17b9238f570.gif)
+
 <!--
 **kambarovee/kambarovee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
