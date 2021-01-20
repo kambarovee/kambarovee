@@ -12,11 +12,10 @@
  
 <div align="center">
 <h2>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h2>
-<img src="svg/android-original.svg" width="30px">
+<img src="svg/android-plain.svg" width="30px">
 <img src="svg/firebase-plain.svg" width="30px">
 <img src="svg/flutter-original.svg" width="30px">
 <img src="svg/git-original.svg" width="30px">
-<img src="svg/google-original.svg" width="30px">
 <img src="svg/java-original.svg" width="30px">
 <img src="svg/kotlin-original.svg" width="30px">
 </div>
