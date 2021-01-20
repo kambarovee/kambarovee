@@ -12,7 +12,7 @@
 <img src="svg/android-plain.svg" width="30px">
 <img src="svg/firebase-plain.svg" width="30px">
 <img src="svg/flutter-original.svg" width="30px">
-<img src="svg/kotlin-original.svg" width="27px">
+<img src="svg/kotlin-original.svg" width="30px">
 <img src="svg/java-original.svg" width="30px">
 <img src="svg/git-original.svg" width="30px">
 </div>
