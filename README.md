@@ -17,8 +17,9 @@
 <img src="svg/git-original.svg" width="30px">
 </div>
 <div align="center" width="50">
- 
- 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
  
  
  
