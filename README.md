@@ -20,9 +20,8 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-![](https://bit.ly/395gUrG)
- 
- 
+![](https://bit.ly/3qMOIQD)
+
 <!--
 **kambarovee/kambarovee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
