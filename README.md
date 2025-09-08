@@ -7,15 +7,7 @@
 𝙼𝚢 𝚍𝚛𝚎𝚊𝚖 𝚒𝚜 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 𝚊 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚝𝚑𝚊𝚝 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚞𝚜𝚎𝚏𝚞𝚕 𝚝𝚘 𝚊𝚕𝚕 𝚘𝚏 𝚑𝚞𝚖𝚊𝚗𝚒𝚝𝚢!<br> 𝙵𝚘𝚛 𝚝𝚑𝚒𝚜 𝙸 𝚊𝚖 𝚜𝚝𝚒𝚕𝚕 𝚐𝚊𝚒𝚗𝚒𝚗𝚐 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎.<br> </h5>
 </div>
 <div align="center" width="50">
-<div align="center">
-<h2>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h2>
-<img src="svg/android-plain.svg" width="30px">
-<img src="svg/firebase-plain.svg" width="30px">
-<img src="svg/flutter-original.svg" width="30px">
-<img src="svg/kotlin-original.svg" width="30px">
-<img src="svg/java-original.svg" width="30px">
-<img src="svg/git-original.svg" width="30px">
-</div>
+
 <div align="center" width="50">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
